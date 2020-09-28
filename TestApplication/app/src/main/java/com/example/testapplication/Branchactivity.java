@@ -12,3 +12,6 @@ public class Branchactivity extends AppCompatActivity {
         setContentView(R.layout.activity_branchactivity);
     }
 }
+
+
+Test in Branchtest
